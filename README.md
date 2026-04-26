@@ -4,10 +4,11 @@
 
 I am a driven Software Engineer specializing in **Python**, modern web development, and **AI integrations** (OpenAI API). Coming from a diplomatic background and having lived across multiple countries, I bring a unique global perspective, high adaptability, and strong cross-cultural communication to technical teams.
 
-- 🌍 Based in **Iraq / Global Remote**
+- 🌍 **Based in Armenia / Originally from Iraq**
 - 💬 Ask me about **Python, Prompt Engineering, and RAG Systems**
 - 📫 Reach me at **ahmedmunther.w@gmail.com**
 - 🌐 Languages: **Arabic (Native) | English (C2 Proficient)**
+
 
 ---
 
